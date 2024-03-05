@@ -12,7 +12,7 @@ class ConfigurationManager:
         self.params = read_yaml(params_filepath)
         self.schema = read_yaml(schema_filepath)
         
-        create_directories(path_to_directories=[self.config.artifact_root])
+        create_directories(path_to_directories=[self.config.artifacts_root])
         
     def get_data_ingestion_config(self) -> DataIngestionConfig:
         config = self.config.data_ingestion
