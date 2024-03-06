@@ -1,7 +1,7 @@
 from src.mlploject.config.configuration import ConfigurationManager
 from src.mlploject.components.model_trainer import ModelTrainer
 from src.mlploject import logger
-from pathlib import Path
+
 
 
 STAGE_NAME = "Model Trainer Stage"

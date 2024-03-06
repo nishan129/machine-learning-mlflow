@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLproject/First_project/Project/machine-learning-mlflow/mlruns/0/8097e8f7e2124ee384ce7f0efee83f8e/artifacts
+end_time: 1709715494327
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8097e8f7e2124ee384ce7f0efee83f8e
+run_name: silent-ant-447
+run_uuid: 8097e8f7e2124ee384ce7f0efee83f8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709715487354
+status: 3
+tags: []
+user_id: Nishant Borkar

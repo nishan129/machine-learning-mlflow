@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLproject/First_project/Project/machine-learning-mlflow/mlruns/0/8c860ad9053844fc82502ce2d5829539/artifacts
+end_time: 1709715703607
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8c860ad9053844fc82502ce2d5829539
+run_name: sneaky-dog-807
+run_uuid: 8c860ad9053844fc82502ce2d5829539
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709715700315
+status: 3
+tags: []
+user_id: Nishant Borkar

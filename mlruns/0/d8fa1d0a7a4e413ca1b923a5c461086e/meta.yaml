@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLproject/First_project/Project/machine-learning-mlflow/mlruns/0/d8fa1d0a7a4e413ca1b923a5c461086e/artifacts
+end_time: 1709715410550
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d8fa1d0a7a4e413ca1b923a5c461086e
+run_name: zealous-horse-755
+run_uuid: d8fa1d0a7a4e413ca1b923a5c461086e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709715402451
+status: 3
+tags: []
+user_id: Nishant Borkar
