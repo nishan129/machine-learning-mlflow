@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLproject/First_project/Project/machine-learning-mlflow/mlruns/0/3468e07d77eb42d3a5378631ad7f1a2e/artifacts
+end_time: 1709732655539
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3468e07d77eb42d3a5378631ad7f1a2e
+run_name: awesome-cow-98
+run_uuid: 3468e07d77eb42d3a5378631ad7f1a2e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709732648911
+status: 3
+tags: []
+user_id: Nishant Borkar

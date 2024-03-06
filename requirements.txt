@@ -15,4 +15,5 @@ pyarrow
 from_root
 mlflow
 python-box
+dvc
 -e . 

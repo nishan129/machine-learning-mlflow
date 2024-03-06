@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLproject/First_project/Project/machine-learning-mlflow/mlruns/0/e36152fe6f7548d788afd8a39d6b5cb3/artifacts
+end_time: 1709736942186
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e36152fe6f7548d788afd8a39d6b5cb3
+run_name: thundering-mule-120
+run_uuid: e36152fe6f7548d788afd8a39d6b5cb3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709736936128
+status: 3
+tags: []
+user_id: Nishant Borkar
