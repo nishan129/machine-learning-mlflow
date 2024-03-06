@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLproject/First_project/Project/machine-learning-mlflow/mlruns/0/f9d27d49d598408d9c74717e7b459658/artifacts
+end_time: 1709717935646
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f9d27d49d598408d9c74717e7b459658
+run_name: delightful-midge-621
+run_uuid: f9d27d49d598408d9c74717e7b459658
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709717932487
+status: 3
+tags: []
+user_id: Nishant Borkar
